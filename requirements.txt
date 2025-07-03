@@ -5,3 +5,4 @@ opencv-python-headless
 Pillow
 matplotlib
 streamlit-drawable-canvas
+--upgrade pip
